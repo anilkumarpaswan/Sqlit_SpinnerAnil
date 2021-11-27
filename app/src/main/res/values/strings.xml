@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sqlit_SpinnerAnil</string>
+    <string-array name="Items">
+      <item>Mobile</item>
+        <item>Tablet</item>
+        <item>KeyBord phone</item>
+        <item>DeskTop</item>
+        <item>Adapter of laptop</item>
+        <item>Windows 11</item>
+        <item>monitor</item>
+
+
+
+
+
+    </string-array>
+</resources>
